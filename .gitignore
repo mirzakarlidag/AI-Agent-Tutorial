@@ -3,3 +3,6 @@ AI-Agent-Tutorial.code-workspace
 
 # Environmen Variables
 .env
+
+# Virtual Environment
+env
