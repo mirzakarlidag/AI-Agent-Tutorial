@@ -6,3 +6,6 @@ AI-Agent-Tutorial.code-workspace
 
 # Virtual Environment
 env
+
+# Python cache folder
+__pycache__
